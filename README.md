@@ -1,1 +1,11 @@
-# python-lecture-test
+input(5+10)
+15
+''
+input(5-10)
+-5
+''
+input(5*10)
+50
+''
+input(5/10)
+0.5
