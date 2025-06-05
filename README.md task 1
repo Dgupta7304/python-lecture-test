@@ -9,8 +9,3 @@ input(5*10)
 ''
 input(5/10)
 0.5
-first_name = "John"
-last_name = "Doe"
-greeting = f"Hello,{first_name} {last_name}! Welcome to the Python program."
-input(greeting)
-Hello,John Doe! Welcome to the Python program.
